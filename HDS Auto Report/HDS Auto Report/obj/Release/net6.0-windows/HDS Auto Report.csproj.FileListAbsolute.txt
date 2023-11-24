@@ -1,0 +1,37 @@
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\HDS Auto Report.exe
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\HDS Auto Report.deps.json
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\HDS Auto Report.runtimeconfig.json
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\HDS Auto Report.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\HDS Auto Report.pdb
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\Google.Protobuf.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\MySql.Data.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\System.Text.Json.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\ZstdSharp.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.csproj.AssemblyReference.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.csproj.ResolveComReference.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS_Auto_Report.Form1.resources
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.csproj.GenerateResource.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.AssemblyInfoInputs.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.AssemblyInfo.cs
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.csproj.CoreCompileInputs.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.csproj.CopyComplete
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\refint\HDS Auto Report.dll
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.pdb
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\HDS Auto Report.genruntimeconfig.cache
+F:\Projects\Support Fadli\HDS_Auto_Report\HDS Auto Report\HDS Auto Report\obj\Release\net6.0-windows\ref\HDS Auto Report.dll
